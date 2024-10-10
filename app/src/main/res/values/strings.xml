@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KkbImage</string>
+    <string name="tab_text_1">Search Result</string>
+    <string name="tab_text_2">My Items</string>
+</resources>
